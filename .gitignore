@@ -1,0 +1,32 @@
+# ملفات الترجمة
+*.class
+
+# فولدرات الناتج
+bin/
+build/
+out/
+
+# ملفات IDE زي IntelliJ و Eclipse
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+nbproject/
+
+# ملفات الويندوز والماك اللي ملهاش لازمة
+.DS_Store
+Thumbs.db
+*.obj
+*.exe
+*.ilk
+*.log
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.user
+*.suo
+*.vcxproj.user
+.vs/
+x64/
